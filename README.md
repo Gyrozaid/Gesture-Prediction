@@ -13,12 +13,18 @@ are made about whether a given datset comes from a left, right, up, or down moti
 - Assignment 2 svm report.pdf: assignment report
 
 Time series down gesture:
+
+
 ![alt text](figures/acceleration_down_3.png)
 
 Fold 2 example confusion matrix:
+
+
 ![alt text](image.png)
 
 Down gesture spectrogram:
+
+
 ![alt text](figures/acceleration_spectro_down_3.png)
 
 
